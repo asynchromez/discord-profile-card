@@ -1,3 +1,5 @@
+![Скриншот проекта](https://github.com/asynchromez/discord-profile-card/raw/main/project.png)
+
 # Discord Profile Card
 
 Аналог Discord профиля в виде веб-страницы с современным дизайном.
@@ -33,3 +35,4 @@ npm run dev
 
 # Откройте проект в браузере:
 http://localhost:3000/
+
