@@ -8,7 +8,7 @@ export default function Home() {
         <a href="https://t.me/asynchrome" target="_blank" rel="noopener noreferrer" className="text-white text-opacity-80 hover:text-opacity-100 text-sm font-medium transition-all">
           Telegram
         </a>
-        <a href="https://discord.com/users/1402631748449210388" target="_blank" rel="noopener noreferrer" className="text-white text-opacity-80 hover:text-opacity-100 text-sm font-medium transition-all">
+        <a href="https://discord.com/users/1182372959860576289" target="_blank" rel="noopener noreferrer" className="text-white text-opacity-80 hover:text-opacity-100 text-sm font-medium transition-all">
           Discord
         </a>
         <a href="https://github.com/asynchromez" target="_blank" rel="noopener noreferrer" className="text-white text-opacity-80 hover:text-opacity-100 text-sm font-medium transition-all">
