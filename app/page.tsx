@@ -67,18 +67,22 @@ export default function Home() {
           </p>
           
           <p className="text-gray-400 text-sm">
-            Hi! 🌿 I'm asynchrome - 17 y.o fullstack developer, based in St.Peterburg, Russia
+            Hi! 🌿 I'm asynchrome - 16 y.o student fullstack developer, based in St.Peterburg, Russia
           </p>
 
           <p className="text-gray-400 text-sm">
-            This site is <a 
-              href="https://github.com/asynchromez" 
+            You can add my to friends in  <a 
+              href="https://steamcommunity.com/id/asynchrome/" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="font-bold text-gray-300 hover:underline hover:text-white transition-colors"
             >
-              github
-            </a> project for my portfolio. aka discord profile card.
+              Steam
+            </a>.
+          </p>
+
+          <p className="text-gray-400 text-sm">
+            I 💗 play CS2 // Ne ZAREGALO!!!
           </p>
         </div>
       </div>
